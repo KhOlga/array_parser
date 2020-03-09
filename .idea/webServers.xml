@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7299c04b-dd00-47ed-869c-08cbbc7a6fbf" name="51.15.94.110" url="http://51.15.94.110">
+        <fileTransfer host="51.15.94.110" port="3121" privateKey="C:\Users\okharabet\.ssh\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="3121" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

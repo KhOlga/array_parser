@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="laravel55_site_db@51.15.94.110" uuid="1ec6059b-1fe4-458d-8d46-7cadf6980bd8">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://51.15.94.110:3306/laravel55_site_db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="laravel55_site_db_test@51.15.94.110" uuid="fcb4f550-e864-4915-aadd-fd1a5c3ae75d">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>test DB</remarks>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://51.15.94.110:3306/laravel55_site_db_test</jdbc-url>
+    </data-source>
+  </component>
+</project>
